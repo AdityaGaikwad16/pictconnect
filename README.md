@@ -1,4 +1,4 @@
-Gradlink: A Collaborative Platform for College Students
+#Gradlink: A Collaborative Platform for College Students
 Project Overview
 
 Gradlink is a web application designed to foster a collaborative community among college students. The platform enables users to share their projects, provide feedback, and connect with like-minded individuals. By creating a supportive environment, Gradlink aims to facilitate learning, networking, and personal growth.
@@ -9,12 +9,16 @@ Project Sharing: Users can upload their projects, including code, documentation,
 Project Reviews: Members can provide constructive feedback on projects, helping others improve their work.
 User Profiles: Users can create personalized profiles to showcase their skills, interests, and projects.
 Networking: The platform facilitates connections between students with similar goals and backgrounds.
-Technology Stack
+
+#Technology Stack
 
 1)Backend: Django
+
 2)Frontend: HTML, CSS, JavaScript
+
 3)Database: SQLite
-Getting Started
+
+#Getting Started
 
 1)Clone the Repository:
 Bash
